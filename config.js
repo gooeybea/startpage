@@ -31,7 +31,7 @@ var cards = [
   {
     name: "Tools",
     bookmarks: {
-      "Edit Start Page Links: "https://github.com/gooeybea/startpage/edit/main/config.js",
+      "Edit Start Page Links": "https://github.com/gooeybea/startpage/edit/main/config.js",
     },
   },
 ];
