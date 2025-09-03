@@ -9,7 +9,7 @@ var greet;
 var html = "";
 
 if (hrs < 12)
-  greet = html + '<span class="morning">' + "Morning" + "</span>";
+  greet = html + '<span class="morning">' + "Meowning" + "</span>";
 else if (hrs >= 12 && hrs <= 17)
   greet = html + '<span class="afternoon">' + "Afternoon" + "</span>";
 else if (hrs >= 17 && hrs <= 24)
