@@ -27,7 +27,6 @@ var cards = [
       Behance: "https://behance.net",
     },
   },
-
   {
     name: "Tools",
     bookmarks: {
